@@ -1,0 +1,3 @@
+Extract the folders, move the folder containing definitions, data, etc titled "Not Tom's Trolling Mod" into: /AppData/Roaming/Stormworks/data/mods/
+If the "mods" folder isn't there, create it.
+If you are unsure how to get to AppData, hold the Windows Key and click "R" to open the "Run" program. Type "%AppData%" without the quotes and hit enter.
